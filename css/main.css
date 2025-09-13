@@ -1,0 +1,19 @@
+.services {
+    text-align: center;
+}
+.services h1{
+    padding: 70px;
+}
+
+.service{
+    display: inline-block;
+    width: 23%;
+    margin: 1px;
+}
+.service i{
+    color: orange;
+    font-size: 26px;
+}
+.clear-fix{
+    clear:both;
+}
